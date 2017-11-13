@@ -1,0 +1,43 @@
+//config for all variables
+
+//Colors
+$grey: #dddddd;
+$themeColor: #ed4961;
+$light-grey: #f9f9f9;
+$dark-grey: #777777;
+
+//Sizes and Spacing
+$space: 1.4rem;
+$site-max-width: 50rem;
+$h2-font-size: 1.8rem;
+
+//Form inputs
+$input-border:$grey;
+$input-spacing: 1rem;
+
+//Boxed view variables
+$boxed-view-overlay-bg: $grey;
+$boxed-view-bg: white;
+
+//Font sizes
+$base-font-size: 1.6rem;
+
+//anchor(link) color
+$anchorColor: $themeColor;
+
+//Button
+$button-bg: $themeColor;
+$button-font-color: white;
+$button-pill-color: $themeColor;
+$button--secondary-bg: $light-grey;
+$button--secondary-color: $dark-grey;
+$button--secondary-border-color: #dddddd;
+
+//Header
+$header-bg: $themeColor;
+$header-color: white;
+
+//Item
+$item-bg: $light-grey;
+$item-border: darken($item-bg, 8%);
+$item-text-color: $dark-grey;
