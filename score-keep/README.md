@@ -1,9 +1,8 @@
 # Meteor Score Keep App
-This is my first Meteor app.
+First Meteor app. Similar to todo list. Messages saved in database.
 
 Demo: http://zzl-score-keep.herokuapp.com/
 
-## This project created during I was learning the course from Udemy.
 
 ## Getting Started
 
@@ -26,5 +25,3 @@ meteor
 ```
 npm test
 ```
-
-## Chinese version comming soon

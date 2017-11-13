@@ -1,12 +1,8 @@
 # Meteor MyNote App
 
-## This project created during I was learning the course from Udemy.
-
 Demo: http://zzl-mynote.herokuapp.com/
 
-This project includes a react and authentication setup.
-
-Windows machine might have the problem "Error: EPERM: operation not permitted, unlink", just delete everything in .meteor/local and problem will be solved.
+An online note app, save your notes immediately.
 
 ## Getting Started
 
@@ -29,5 +25,3 @@ meteor
 ```
 npm test
 ```
-
-## Chinese version comming soon

@@ -1,8 +1,6 @@
 # Meteor short-link App
 
-## This project created during I was learning the course from Udemy.
-
-This app is like a bookmark, which you can collect urls and save into your account.
+An easy bookmark app, collect urls and save into an account.
 
 Demo: https://zzl-shortlink.herokuapp.com/
 
@@ -27,5 +25,3 @@ meteor
 ```
 npm test
 ```
-
-## Chinese version comming soon
