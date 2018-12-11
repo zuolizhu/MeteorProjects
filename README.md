@@ -5,6 +5,6 @@ Meteor + React
 Online notebook with simply design
 Demo: http://zzl-mynote.herokuapp.com/
 
-# MyLinks
+## MyLinks
 Online page bookmark app
 Demo: https://zzl-shortlink.herokuapp.com/
